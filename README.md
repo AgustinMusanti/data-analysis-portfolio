@@ -1,6 +1,6 @@
 ¡Bienvenido a mi portfolio de análisis de datos! Aqui encontrarás un recorrido.
 
-"Delitos en CABA" fue mi proyecto final en el curso de Data Analytics de Coderhouse.
+"Delitos en CABA" fue mi proyecto final en el curso de Data Analytics de Coderhouse, el mismo resulto entre los 10 mejores de la cursada.
 La temática de este proyecto fue analizar los barrios con mayor tasa de delitos en la Ciudad Autónoma de Buenos Aires.
 
 Habilidades y herramientas implicadas: 
