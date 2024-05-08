@@ -1,20 +1,24 @@
-¡Bienvenido a mi portfolio de análisis de datos! Aqui encontrarás un recorrido.
+# Análisis de Delitos en la Ciudad Autónoma de Buenos Aires
 
-"Delitos en CABA" fue mi proyecto final en el curso de Data Analytics de Coderhouse, el mismo resulto entre los 10 mejores de la cursada.
-La temática de este proyecto fue analizar los barrios con mayor tasa de delitos en la Ciudad Autónoma de Buenos Aires.
+Este repositorio contiene el proyecto final desarrollado como parte del curso de Data Analytics de Coderhouse. El proyecto se centró en el análisis de datos relacionados con delitos en la Ciudad Autónoma de Buenos Aires y fue seleccionado entre los 10 mejores de la cursada.
 
-Habilidades y herramientas implicadas: 
-- Análisis exploratorio de datos
-- Limpieza y transformación de datos
-- Visualización de datos
-- Estadísticas descriptivas
-- Excel, Power BI, SQL.
+## Objetivo del Proyecto
 
-Si deseas interactuar con el tablero realizado en este análisis, siga el siguiente link: 
--https://www.novypro.com/profile_projects/agustinmusanti
+El objetivo principal de este proyecto fue utilizar técnicas de análisis de datos para comprender mejor la dinámica de los delitos en la Ciudad Autónoma de Buenos Aires. Se exploraron diversas fuentes de datos relacionadas con los delitos, como informes policiales y datos de denuncias, para identificar patrones, tendencias y áreas críticas.
 
-Si deseas saber más sobre este proyecto o tienes algunda pregunta puedes contactarme por: 
-- Linkedin: https://www.linkedin.com/in/agustinmusanti/
-- Correo electrónico: agustinmusanti@gmail.com
+## Tecnologías Utilizadas
 
+- **Bases de Datos Relacionales**: Se utilizaron conceptos generales de bases de datos y consultas SQL para acceder y manipular los datos de delitos.
+- **Power BI**: Se diseñaron y desarrollaron tableros interactivos utilizando Power BI, aprovechando las capacidades de DAX (Data Analysis Expressions), Power Query y el lenguaje M para análisis avanzado.
+- **Análisis de Datos**: Se aplicaron técnicas de análisis de datos exploratorio y descriptivo para extraer información significativa de los conjuntos de datos.
+
+## Estructura del Repositorio
+
+- **Datos**: Carpeta que contiene los conjuntos de datos utilizados en el análisis.
+- **Dashboards**: Carpeta que contiene los archivos de Power BI con los tableros de control desarrollados.
+- **Documentación**: Carpeta que incluye cualquier documentación adicional relacionada con el proyecto.
+
+## Resultados y Conclusiones
+
+El análisis de datos realizado proporcionó una visión detallada de la distribución de delitos en la Ciudad Autónoma de Buenos Aires, identificando áreas de alto y bajo índice delictivo, así como posibles factores contribuyentes. Los tableros de control desarrollados en Power BI permiten una visualización interactiva de los datos, facilitando la comprensión y la toma de decisiones.
 
