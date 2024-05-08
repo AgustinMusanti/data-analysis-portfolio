@@ -15,7 +15,7 @@ El objetivo principal de este proyecto fue utilizar técnicas de análisis de da
 ## Estructura del Repositorio
 
 - **Datos**: Carpeta que contiene los conjuntos de datos utilizados en el análisis.
-- **Dashboards**: Carpeta que contiene los archivos de Power BI con los tableros de control desarrollados.
+- **Dashboard**: Carpeta que contiene el archivos de Power BI con el tablero de control desarrollado.
 - **Documentación**: Carpeta que incluye cualquier documentación adicional relacionada con el proyecto.
 
 ## Resultados y Conclusiones
